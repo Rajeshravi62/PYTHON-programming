@@ -1,0 +1,10 @@
+a=3
+b=7
+c=80
+sum=a+b+c
+sub=a-b
+mul=(a*b*c)
+div=(a/b)
+pwr=a**b
+equ=a<>b
+print('addition {0} subtract {1} multiplication {2} division{3} power{4} Is a equal to b{5}'.format(sum,sub,mul,div,pwr,equ))
