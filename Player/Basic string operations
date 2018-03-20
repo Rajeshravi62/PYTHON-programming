@@ -1,0 +1,9 @@
+#From the string ‘Programmer‘ Find the Number of letter ‘r‘ occurrences, Position of letter ‘g’ Replace the ‘m’ with ‘Y’
+stringvar="programmer"
+print(stringvar.count("r"))
+print(stringvar.find("g"))
+print(stringvar.replace("a","b"))
+print(stringvar.upper())
+print(stringvar.strip())
+print(stringvar[1:5])
+print(stringvar[:-5])
