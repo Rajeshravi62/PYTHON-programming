@@ -1,0 +1,7 @@
+x=input("enter the number")
+if x>0:
+	print("\n positive")
+elif x<0:
+	print("/n negative")
+else:
+	print("/n zero")
